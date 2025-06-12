@@ -1,5 +1,3 @@
-![alt text](image.png)
-
 # Weather App 🌤️
 
 A modern, responsive weather application built with React and Vite that provides real-time weather information with intelligent city search suggestions and location-based weather data.
